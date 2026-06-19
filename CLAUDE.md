@@ -22,7 +22,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## My Knowledge Scorecard
 | Topic | Level | Last Tested | Weak Areas |
 |-------|-------|-------------|------------|
-| Java OOP | ? | - | - |
+| Java OOP | Beginner-Intermediate | 2026-06-19 | Method return types (void), constructor visibility |
 | Collections/Streams | ? | - | - |
 | Agile/Scrum | ? | - | - |
 | Design Patterns | ? | - | - |
