@@ -25,7 +25,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | Java OOP | Beginner-Intermediate | 2026-06-19 | Method return types (void), constructor visibility |
 | Collections/Streams | Beginner-Intermediate | 2026-06-19 | Knowing when to use .map() vs toMap(), missing semicolons |
 | Agile/Scrum | Beginner | 2026-06-19 | Scrum Master vs PO responsibilities, production bug handling |
-| Design Patterns | ? | - | - |
+| Design Patterns | Beginner-Intermediate | 2026-06-19 | Singleton thread-safety, string case conventions |
 
 | Error Handling | ? | - | - |
 | TDD | ? | - | - |
