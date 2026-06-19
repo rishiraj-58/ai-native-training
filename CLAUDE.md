@@ -1,3 +1,7 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
 # AI-Native Developer Training — Learning Context
 
 ## Who I Am
@@ -39,6 +43,18 @@
 - Real-world backend scenarios
 - Interview-style questions
 - Red-Green-Refactor for TDD
+
+## Skills (use these, don't improvise)
+- `/teach` — Socratic, small-chunk teaching with code exercises. Use for new concepts.
+- `/quiz` — Adaptive quizzes that update the scorecard. Run after every concept.
+- `/code-review` — Senior-level Java review. Use after Rishiraj writes code.
+- `/flashcard` — Spaced-repetition drills. Use to revisit weak areas from the scorecard.
+
+## Repository Layout
+- `java/` — Java exercises (OOP, Collections, Streams, Error Handling)
+- `design-patterns/` — Pattern implementations (one class per pattern)
+- `testing/` — TDD exercises (Red-Green-Refactor cycles)
+- `notes/` — Revision sheets and session notes (save one `.md` per session)
 
 ## Session Log
 <!-- Claude will update this after each session -->
