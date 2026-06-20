@@ -27,7 +27,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | Agile/Scrum | Beginner | 2026-06-19 | Scrum Master vs PO responsibilities, production bug handling |
 | Design Patterns | Beginner-Intermediate | 2026-06-19 | Singleton thread-safety, string case conventions |
 
-| Error Handling | ? | - | - |
+| Error Handling | Beginner-Intermediate | 2026-06-20 | Optional vs null — orElseThrow only works on Optional |
 | TDD | ? | - | - |
 
 ## Learning Rules (ALWAYS FOLLOW)
